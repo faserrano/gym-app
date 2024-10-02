@@ -1,0 +1,19 @@
+{
+  "name": "gym-app",
+  "version": "1.0.0",
+  "description": "A project to learn React and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faserrano/gym-app.git"
+  },
+  "author": "Frank Serrano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faserrano/gym-app/issues"
+  },
+  "homepage": "https://github.com/faserrano/gym-app#readme"
+}
