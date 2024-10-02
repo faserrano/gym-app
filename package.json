@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/faserrano/gym-app/issues"
   },
-  "homepage": "https://github.com/faserrano/gym-app#readme"
+  "homepage": "https://github.com/faserrano/gym-app#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
